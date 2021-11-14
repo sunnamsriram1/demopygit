@@ -15,3 +15,10 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("Sunnam Sriram")
+
+class ram:
+    def x(self):
+        print("John001")
+
+obj = ram()
+obj.x()
